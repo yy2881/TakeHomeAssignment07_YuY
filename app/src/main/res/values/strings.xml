@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marvel Quiz</string>
+    <string name="question1">The first Iron Man movie was released in 2005.</string>
+    <string name="question2">Thor teams up with Hulk in Thor: Ragnarok.</string>
+    <string name="question3">Black Panther sets in the fictional country Wakanda.</string>
+    <string name="question4">Black Widow first appeared in The Incredible Hulk.</string>
+    <string name="question5">Bucky Barnes is better known as the Winter Soldier.</string>
+    <string name="question6">It\'s the Unobtainium that gives the Wakandans their power.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previoius_button">Previous</string>
+    <string name="incorrect_toast">False!</string>
+    <string name="correct_toast">Correct!</string>
+</resources>
